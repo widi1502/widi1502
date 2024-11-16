@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌸💖 Halo, Saya Widi Tri Nurhasanah 💖🌸</h1>
+  <h1>🌻🌻 Halo, Saya Widi Tri Nurhasanah 🌻🌻</h1>
   <h3>✨ Data Analyst Enthusiast | Machine Learning Cohort di Bangkit Academy 2024 ✨</h3>
 </div>
 
