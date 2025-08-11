@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🌻🌻 Hi, I'm Widi Tri Nurhasanah 🌻🌻</h1>
-  <h3>✨ Data Analyst Enthusiast | Machine Learning Cohort at Bangkit Academy 2024 ✨</h3>
+  <h3>✨ Data Analyst Enthusiast ✨</h3>
 </div>
 
 <p align="center">
@@ -10,9 +10,8 @@
 ---
 
 ### 🌼 Tentang Saya
-- 🌱 Saat ini sedang mengerjakan **Capstone Project** ([lihat di sini 🌐](https://widi1502.github.io))
 - 💻 Semua proyek saya ada di [GitHub 🗂️](https://github.com/widi1502)
-- 📫 Hubungi saya di: **wtrinurhasanah@gmail.com**
+- 📫 Hubungi saya di: **trinurhasanahwidi@gmail.com**
 
 ---
 
